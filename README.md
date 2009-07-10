@@ -6,6 +6,7 @@ Development is funded by the University of Ontario Institute of Technology for t
 
 # Bugs
 There are probably a lot of bugs.  The following are ones that are known:
+
 *   After first inatalling or a reset of the application settings the operating system id is set to 0.  You must go into the settings application and choose an operating system before entries will appear.
 
 # License
